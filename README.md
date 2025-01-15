@@ -30,6 +30,9 @@ This project bridges the gap between human communication and artificial intellig
 
 ## Key Code Files
 
+- **`audio_feature_extraction.ipynb`**: Visualizing features for a single dataset.
+  - Audio data extracted from a single file for visualization.
+
 - **`creating_dataset.ipynb`**: Preprocessing and dataset creation pipeline.
   - Combines RAVDESS, TESS, SAVEE, and CREMA-D datasets.
   - Implements feature extraction using the `Librosa` library.
