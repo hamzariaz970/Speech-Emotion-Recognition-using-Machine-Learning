@@ -70,6 +70,7 @@ This project bridges the gap between human communication and artificial intellig
 ## Project Structure
 
 - **Notebooks**:
+  - `audio_feature_extraction.ipynb`: Features visualization.
   - `creating_dataset.ipynb`: Preprocessing and dataset creation.
   - `data_exploration.ipynb`: Feature analysis and insights.
   - `combined_random_forest.ipynb`: Random Forest training and evaluation.
